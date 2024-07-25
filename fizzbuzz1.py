@@ -8,5 +8,5 @@ for x in range(1,101):
         fb_list.append("Buzz")
     else:
         fb_list.append(int(x))
-print (fb_list)
+print(fb_list)
 
